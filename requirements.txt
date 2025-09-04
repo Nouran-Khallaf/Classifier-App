@@ -1,4 +1,6 @@
 # ---- Top-level requirements for Streamlit app + FastAPI API ----
+nltk
+langdect
 # Core API / web
 fastapi
 uvicorn[standard]
