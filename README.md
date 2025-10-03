@@ -4,7 +4,7 @@ This is a **Streamlit-based web app** for **Sentence  classification** using mul
 ## 🖥️ Live App
 🔗 **Access the app here:** [Classifier App](https://classifier-app.streamlit.app/)
 
-## 🚀 Features
+##  Features
 - Select from multiple Hugging Face models
 - Classify text as **Simple or Complex**
 - Compare multiple models' predictions
