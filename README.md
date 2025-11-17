@@ -39,7 +39,7 @@ This API is designed to sit alongside the existing Streamlit app.
 
 ### Python
 
-* **Version:** Python **3.10+** (✅ **3.11 recommended**)
+* **Version:** Python **3.10+** (**3.11 recommended**)
 * **Tools:** `pip`, `venv` (or `conda`), `git`
 * **Notes:**
 
